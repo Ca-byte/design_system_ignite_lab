@@ -15,6 +15,9 @@ module.exports = {
 
     },
     colors: {
+      'black': '#000000',
+      'white': '#FFFFFF',
+
       'gray-900': '#121214',
       'gray-800': '#202024',
       'gray-600': '#7C7C8A',
@@ -23,7 +26,7 @@ module.exports = {
       'gray-200': '#E1E1E6',
 
       'grass-800': '#0E955E',
-      'grass-500': '0ED282',
+      'grass-500': '#0ED282',
 
       'blue-700': '#005083',
 
